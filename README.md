@@ -1,4 +1,9 @@
 # ⚛️ Molecular Orbital Theory Virtual Lab
+## 🌐 Live Demo
+
+Try the application here:
+
+https://molecular-orbital-virtual-lab-2jwzlkmzzrgxiwuuhame84.streamlit.app/
 
 An interactive educational web application designed to help students understand Molecular Orbital Theory through molecular analysis, electron configurations, bond order calculations, and magnetic properties.
 
